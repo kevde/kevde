@@ -1,6 +1,6 @@
 ## Kevin de Guzman
 
-React.js | Node.js | Angular.js | Vue.js
+React.js | Node.js | Angular.js | Vue.js
 
 *Developing web-apps since 2011*
 
