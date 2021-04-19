@@ -1,16 +1,14 @@
-### Hi there 👋
+## Kevin de Guzman
 
-<!--
-**kevde/kevde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+React.js | Node.js | Angular.js | Vue.js
 
-Here are some ideas to get you started:
+*Developing web-apps since 2011*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of my projects:
+
+- Tappetite.co - https://tappetite.co
+- Morganize - https://morganize.it
+
+I also have my own startup team
+
+- http://darkspot.tech
